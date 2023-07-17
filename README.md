@@ -1,0 +1,1 @@
+I'm currently learning the foundation for webDev, started by studing HTML on The Odin Project. I'm at the last part for basic HTLM and need to use what I have learn to build HTML page :) and will learn to stylist after with CSS.
